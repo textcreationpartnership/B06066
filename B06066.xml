@@ -1,0 +1,616 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Commissioners appointed for Administration of Justice to the People of Scotland. Forasmuch as there be many laudable laws and acts of Parliament of this nation made for suppressing of Sorners, broken Highlanders, borderers, and such as have disquieted the peace of the nation in former times ...</title>
+            <author>Scotland. Commissioners for administration of Justice in Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06066</idno>
+            <idno type="STC">Wing S994E</idno>
+            <idno type="STC">ESTC R183803</idno>
+            <idno type="EEBO-CITATION">53981567</idno>
+            <idno type="OCLC">ocm 53981567</idno>
+            <idno type="VID">180323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180323)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Commissioners appointed for Administration of Justice to the People of Scotland. Forasmuch as there be many laudable laws and acts of Parliament of this nation made for suppressing of Sorners, broken Highlanders, borderers, and such as have disquieted the peace of the nation in former times ...</title>
+                  <author>Scotland. Commissioners for administration of Justice in Scotland.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at Leith :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Lists printed in four columns.</note>
+                  <note>Dated and signed at end: Given under our hands at Edinburgh, July the 27. 1653. Hen. Whalley [and 4 others].</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Highlands (Scotland) --  History --  17th century --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180323:1"/>
+            <head>BY THE COMMISSIONERS <hi>Appointed for Adminiſtration of Juſtice to the People in</hi> SCOTLAND.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as there be many laudable Laws and Acts of Parliament of this Nation made for ſuppreſſing of Sorners, broken Highlanders, Borderers, and ſuch as have diſquieted the peace of the Nation in former times: And in particular the 93, 94, 97, 98, 101, 103, and 109 Acts of the Eleventh Par<g ref="char:EOLhyphen"/>liament of King <hi>James</hi> the Sixth, beſides many other Acts and Statutes of Parliament and Privy Councell, tending to the prevention and remedy thereof, which by reaſon of the late Troubles of the Countrey, have not been put in execution, whereby many looſe and turbulent perſons, ſuch as againſt whom theſe Acts and Statutes were made and provided, do now take occaſion to trouble the Peace of the Countrey, and commit Out-rages, Inſolencies and Depredations againſt the well-affected, and thoſe who love the Peace of the Nation. For remedy whereof, and for preven<g ref="char:EOLhyphen"/>tion of any ſuch diſorders hereafter, and for the better keeping of the Peace and quiet of the Nation, It is hereby Ordained, That the
+<list>
+                  <item>Marqueſs of <hi>Huntly.</hi>
+                  </item>
+                  <item>Laird of <hi>Park.</hi>
+                  </item>
+                  <item>Laird of <hi>Haddo.</hi>
+                  </item>
+                  <item>Laird of <hi>Newton.</hi>
+                  </item>
+                  <item>Laird of <hi>Rothomay.</hi>
+                  </item>
+                  <item>Laird of <hi>Arradowdle.</hi>
+                  </item>
+                  <item>Marqueſs of <hi>Argyle.</hi>
+                  </item>
+                  <item>Lord <hi>Lorne.</hi>
+                  </item>
+                  <item>Laird of <hi>Auchinbreck.</hi>
+                  </item>
+                  <item>Laird of <hi>Glenurchey.</hi>
+                  </item>
+                  <item>Laird of <hi>Arkindleſſe.</hi>
+                  </item>
+                  <item>Laird of <hi>Glenlyone.</hi>
+                  </item>
+                  <item>Laird of <hi>Invera.</hi>
+                  </item>
+                  <item>Tutor of <hi>Calder.</hi>
+                  </item>
+                  <item>Laird of <hi>Macfarlan.</hi>
+                  </item>
+                  <item>Lord <hi>Duffus.</hi>
+                  </item>
+                  <item>Laird of <hi>Aſſen.</hi>
+                  </item>
+                  <item>Laird <hi>Pluskarden.</hi>
+                  </item>
+                  <item>Laird <hi>Kilcowie.</hi>
+                  </item>
+                  <item>Laird <hi>Cowle.</hi>
+                  </item>
+                  <item>Laird <hi>Tarbet.</hi>
+                  </item>
+                  <item>
+                     <hi>Scatwell.</hi>
+                  </item>
+                  <item>Laird of <hi>Garloch.</hi>
+                  </item>
+                  <item>
+                     <hi>Simon Mackinȝie</hi> of <hi>Louchlin.</hi>
+                  </item>
+                  <item>Lord <hi>Lovat.</hi>
+                  </item>
+                  <item>Tutor of <hi>Lover.</hi>
+                  </item>
+                  <item>Laird <hi>Foyer.</hi>
+                  </item>
+                  <item>Laird <hi>Kilbokie.</hi>
+                  </item>
+                  <item>Laird <hi>Belladrum.</hi>
+                  </item>
+                  <item>Lord <hi>Rea.</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Mackey</hi> of <hi>Scower.</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Macky</hi> of <hi>Dilrede.</hi>
+                  </item>
+                  <item>
+                     <hi>William Macky</hi> of <hi>Bighous.</hi>
+                  </item>
+                  <item>Earle <hi>Cathnes.</hi>
+                  </item>
+                  <item>Laird of <hi>Brims.</hi>
+                  </item>
+                  <item>Laird of <hi>Borlinu, Sinclair.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Sinclair</hi> his Uncle, Maſter of <hi>Cathnes.</hi>
+                  </item>
+                  <item>Laird of <hi>Murkle.</hi>
+                  </item>
+                  <item>Laird of <hi>Maye.</hi>
+                  </item>
+                  <item>
+                     <hi>James</hi> and <hi>William Inniſſe.</hi>
+                  </item>
+                  <item>
+                     <hi>Innis</hi> of <hi>Coxton.</hi>
+                  </item>
+                  <item>Earle <hi>Arley.</hi>
+                  </item>
+                  <item>Lord <hi>Bamph.</hi>
+                  </item>
+                  <item>Earl of <hi>Marre.</hi>
+                  </item>
+                  <item>Lord <hi>Erskin.</hi>
+                  </item>
+                  <item>Laird <hi>Dun.</hi>
+                  </item>
+                  <item>Laird of <hi>Lude.</hi>
+                  </item>
+                  <item>Tutor of <hi>Strowon.</hi>
+                  </item>
+                  <item>Cap. <hi>Dunc. Robertſon.</hi>
+                  </item>
+                  <item>Earle of <hi>Glencairn.</hi>
+                  </item>
+                  <item>Laird of <hi>Faſſe.</hi>
+                  </item>
+                  <item>Laird of <hi>Rothemirchus.</hi>
+                  </item>
+                  <item>Laird <hi>Inchynachan.</hi>
+                  </item>
+                  <item>
+                     <hi>John Stuart,</hi> Bailiffe of <hi>Athol.</hi>
+                  </item>
+                  <item>Mr. <hi>Gilbert Stuart,</hi> ſomtime Com<g ref="char:EOLhyphen"/>miſſary of <hi>Dunkel.</hi>
+                  </item>
+                  <item>Sir <hi>James Mackdonald.</hi>
+                  </item>
+                  <item>
+                     <hi>John Macdonald</hi> of <hi>Shian.</hi>
+                  </item>
+                  <item>
+                     <hi>John Macdonald</hi> of <hi>Invergarrie.</hi>
+                  </item>
+                  <item>
+                     <hi>Alexander Macdonald</hi> of <hi>Bohintin.</hi>
+                  </item>
+                  <item>
+                     <hi>Mackdonald of Kylchonet.</hi>
+                  </item>
+                  <item>
+                     <hi>Macrannold</hi> of <hi>Keppoch.</hi>
+                  </item>
+                  <item>
+                     <hi>John Macdonald</hi> of <hi>Shean</hi> his bro<g ref="char:EOLhyphen"/>ther.</item>
+                  <item>Captains of <hi>Clanrannold Senior.</hi>
+                  </item>
+                  <item>Captains of <hi>Clanrannold Junior.</hi>
+                  </item>
+                  <item>
+                     <hi>Mack-Cloud.</hi>
+                  </item>
+                  <item>Colonell <hi>Rora Mackcloud</hi> and his three Brothers.</item>
+                  <item>
+                     <hi>Mackolduie.</hi>
+                  </item>
+                  <item>
+                     <hi>Daniel Camron</hi> his Uncle.</item>
+                  <item>Laird of <hi>Mackmartin.</hi>
+                  </item>
+                  <item>Laird <hi>Glenavis.</hi>
+                  </item>
+                  <item>
+                     <hi>Donald Camron,</hi> alias <hi>Mackevin vic conil.</hi>
+                  </item>
+                  <item>
+                     <hi>Camron</hi> of <hi>Caldort.</hi>
+                  </item>
+                  <item>
+                     <hi>Aliſter Mackonil</hi> of <hi>Strone.</hi>
+                  </item>
+                  <item>
+                     <hi>Makconchy vik evin</hi> of <hi>Achnaſavil.</hi>
+                  </item>
+                  <item>
+                     <hi>Mackenviconel.</hi>
+                  </item>
+                  <item>Laird <hi>Macklean.</hi>
+                  </item>
+                  <item>Laird of <hi>Lochbewie.</hi>
+                  </item>
+                  <item>Laird of <hi>Ardgower.</hi>
+                  </item>
+                  <item>Laird of <hi>Kingarloch.</hi>
+                  </item>
+                  <item>
+                     <hi>Hector Macklaine.</hi>
+                  </item>
+                  <item>Laird of <hi>Appen.</hi>
+                  </item>
+                  <item>Laird <hi>Glencoe.</hi>
+                  </item>
+                  <item>
+                     <hi>Macgreger</hi> of <hi>Renough.</hi>
+                  </item>
+                  <item>
+                     <hi>Macgreger</hi> of <hi>Rorow.</hi>
+                  </item>
+                  <item>
+                     <hi>Duncan Macgregor.</hi>
+                  </item>
+                  <item>Laird of <hi>Buchanan.</hi>
+                  </item>
+                  <item>The Laird of <hi>Laweris.</hi>
+                  </item>
+                  <item>Baron of <hi>Comrie.</hi>
+                  </item>
+                  <item>Laird <hi>Rothmell.</hi>
+                  </item>
+                  <item>Col. <hi>Minȝis.</hi>
+                  </item>
+                  <item>Laird <hi>Invercald.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Forquerſon</hi> of <hi>Inveray.</hi>
+                  </item>
+                  <item>
+                     <hi>Al. Forquerſon</hi> of <hi>Finnion.</hi>
+                  </item>
+                  <item>Laird <hi>Grant.</hi>
+                  </item>
+                  <item>Laird <hi>Balendolach.</hi>
+                  </item>
+                  <item>Laird <hi>Glenmariſton.</hi>
+                  </item>
+                  <item>Laird <hi>Carron.</hi>
+                  </item>
+                  <item>Lieu. Col. <hi>Grant</hi> in <hi>Vrquhat<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </item>
+                  <item>
+                     <hi>John Grant</hi> of <hi>Garton,</hi> Bailiff of <hi>Straſpay.</hi>
+                  </item>
+                  <item>
+                     <hi>Mackferſon</hi> of <hi>Cluny.</hi>
+                  </item>
+                  <item>
+                     <hi>Dougal Mackferſon,</hi> Bailiff of <hi>Badgenoth.</hi>
+                  </item>
+                  <item>
+                     <hi>John Macferſon</hi> Tutor of <hi>Envereſſie.</hi>
+                  </item>
+                  <item>Laird of <hi>Struie.</hi>
+                  </item>
+                  <item>The Bailiff of <hi>Stracharrich</hi> younger.</item>
+                  <item>The Laird of <hi>Redcaſtle.</hi>
+                  </item>
+                  <item>
+                     <hi>Donald Camron</hi> Tutor of <hi>Lochield.</hi>
+                  </item>
+                  <item>
+                     <hi>Norman Mackleud.</hi>
+                  </item>
+                  <item>Laird <hi>Mackentoſh.</hi>
+                  </item>
+                  <item>
+                     <hi>William Mackentoſh</hi> of <hi>Keylachie.</hi>
+                  </item>
+                  <item>
+                     <hi>Angus Mackquen</hi> of <hi>Correbrock.</hi>
+                  </item>
+                  <item>Cap. <hi>Donald</hi> and <hi>Angus Makqueens</hi>
+                  </item>
+                  <item>Lieu. Col. <hi>James Stuart.</hi>
+                  </item>
+                  <item>
+                     <hi>Laughlan Mackferſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Mackentoſh</hi> Brother.</item>
+                  <item>
+                     <hi>Borlum.</hi>
+                  </item>
+                  <item>
+                     <hi>Strohan.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Auchneſſe</hi> &amp;c.</item>
+               </list> and all others not afore-named, Noblemen, Barons, Gentlemen and others yet on life, and the Heritors of, and Succeſſors to the Lands and Eſtates of ſuch as are deceaſed, and the Tutors and Curators of ſo many as are Minors deceaſed, particularly expreſſed in the Roll remaining in Print, joyned to the Acts of Parliament of King <hi>James</hi> the Sixth, Parliament the Eleventh, 1587. whoſe names or Titles are as followeth:
+<list>
+                  <item>The Laird of <hi>Makfarlane</hi> of the <hi>Ar<g ref="char:EOLhyphen"/>roquhair.</hi>
+                  </item>
+                  <item>The Laird of <hi>Luſſe.</hi>
+                  </item>
+                  <item>The Laird <hi>Makaula</hi> of <hi>Ardincaple.</hi>
+                  </item>
+                  <item>The Laird of <hi>Merchinſton.</hi>
+                  </item>
+                  <item>The Laird of <hi>Glennegyis.</hi>
+                  </item>
+                  <item>The Laird of <hi>Drumquhaſsil.</hi>
+                  </item>
+                  <item>The Laird of <hi>Kilcreuch.</hi>
+                  </item>
+                  <item>The Laird of <hi>Knokhil.</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Shaw</hi> of <hi>Cambuſmoir.</hi>
+                  </item>
+                  <item>The Laird of <hi>Kippenroſſe.</hi>
+                  </item>
+                  <item>The Lord of <hi>Burley.</hi>
+                  </item>
+                  <item>The Laird of <hi>Keir.</hi>
+                  </item>
+                  <item>The Earle of <hi>Lithgow.</hi>
+                  </item>
+                  <item>The Lord of <hi>Down.</hi>
+                  </item>
+                  <item>The Earle of <hi>Pearth.</hi>
+                  </item>
+                  <item>The Earle of <hi>Murrey.</hi>
+                  </item>
+                  <item>The Earle of <hi>Tullibardin.</hi>
+                  </item>
+                  <item>The Laird <hi>Weyme.</hi>
+                  </item>
+                  <item>The Abbot of <hi>Inchchaffray.</hi>
+                  </item>
+                  <item>
+                     <hi>Colin Cambel</hi> of <hi>Ardbeith.</hi>
+                  </item>
+                  <item>The Earle of <hi>Athole.</hi>
+                  </item>
+                  <item>The Laird of <hi>Garntullie.</hi>
+                  </item>
+                  <item>The Laird <hi>Strowane, Robertſon.</hi>
+                  </item>
+                  <item>The Laird <hi>Strowane, Murray.</hi>
+                  </item>
+                  <item>The Laird of <hi>Weſter-wemes.</hi>
+                  </item>
+                  <item>The Laird of <hi>Abbots-hal.</hi>
+                  </item>
+                  <item>The Laird of <hi>Teling.</hi>
+                  </item>
+                  <item>The Laird of <hi>Inchmartin.</hi>
+                  </item>
+                  <item>The Laird of <hi>Pury-Fothringhame.</hi>
+                  </item>
+                  <item>The Laird of <hi>Moncreif.</hi>
+                  </item>
+                  <item>The Laird of <hi>Balleachen.</hi>
+                  </item>
+                  <item>The Baron of <hi>Fandowie.</hi>
+                  </item>
+                  <item>The Earle of <hi>Errol.</hi>
+                  </item>
+                  <item>The Laird of <hi>Cultiebragan.</hi>
+                  </item>
+                  <item>The Lord <hi>Ogilvie.</hi>
+                  </item>
+                  <item>The Laird of <hi>Clouay.</hi>
+                  </item>
+                  <item>The Laird of <hi>Fintrie.</hi>
+                  </item>
+                  <item>Laird of <hi>Mackinvon.</hi>
+                  </item>
+                  <item>Tutor of <hi>Glenmariſton.</hi>
+                  </item>
+                  <item>
+                     <hi>James Mackintoſh</hi> of <hi>Strone.</hi>
+                  </item>
+                  <item>Commiſſary <hi>Gray</hi> of <hi>Arbo</hi> in <hi>Ros.</hi>
+                  </item>
+                  <item>The Laird of <hi>Edȝel.</hi>
+                  </item>
+                  <item>The Lord of <hi>Elphinſtoun.</hi>
+                  </item>
+                  <item>The Lord of <hi>Forbes.</hi>
+                  </item>
+                  <item>Laird <hi>Makintoſh.</hi>
+                  </item>
+                  <item>The Lord and Tutour of <hi>Lovat.</hi>
+                  </item>
+                  <item>
+                     <hi>Chiſholme</hi> of <hi>Cummer.</hi>
+                  </item>
+                  <item>The Laird of <hi>Balnagoun.</hi>
+                  </item>
+                  <item>Major <hi>William Ros</hi> of <hi>Gunnort.</hi>
+                  </item>
+                  <item>
+                     <gap reason="blank" extent="1 span">
+                        <desc>〈1 span left blank〉</desc>
+                     </gap> 
+                     <hi>Ros</hi> of <hi>Pitcalny.</hi>
+                  </item>
+                  <item>
+                     <hi>John Ros</hi> of <hi>Achnacloich.</hi>
+                  </item>
+                  <item>
+                     <hi>John Ros</hi> of <hi>Little Tarrell.</hi>
+                  </item>
+                  <item>
+                     <hi>James Innis</hi> of <hi>Touchis.</hi>
+                  </item>
+                  <item>The Earle <hi>Marſhal.</hi>
+                  </item>
+                  <item>The Lord <hi>Oliphant.</hi>
+                  </item>
+                  <item>The Laird of <hi>Bowquholly.</hi>
+                  </item>
+                  <item>The Laird of <hi>Dunnybeith.</hi>
+                  </item>
+                  <item>The Laird of <hi>Garloch.</hi>
+                  </item>
+                  <item>
+                     <hi>Makgilliechallum</hi> of <hi>Raarſay.</hi>
+                  </item>
+                  <item>
+                     <hi>Macklewid</hi> of <hi>the Harrich.</hi>
+                  </item>
+                  <item>
+                     <hi>Mackinnoun</hi> of <hi>Strathodel.</hi>
+                  </item>
+                  <item>
+                     <hi>Makneil</hi> of <hi>Bara.</hi>
+                  </item>
+                  <item>
+                     <hi>John Mackdonald</hi> of Iland <hi>Terim.</hi>
+                  </item>
+                  <item>
+                     <hi>Mackclean</hi> of <hi>Dowart.</hi>
+                  </item>
+                  <item>
+                     <hi>John Stuart</hi> of the <hi>Appin</hi>
+                  </item>
+                  <item>
+                     <hi>Mackoul</hi> of <hi>Lorne.</hi>
+                  </item>
+                  <item>
+                     <hi>Mackoul</hi> of <hi>Roray.</hi>
+                  </item>
+                  <item>The Laird of <hi>Lochinnel.</hi>
+                  </item>
+                  <item>The Laird of <hi>Caddel.</hi>
+                  </item>
+                  <item>The Laird of <hi>Skelmurly</hi> for <hi>Rauckry.</hi>
+                  </item>
+                  <item>
+                     <hi>Mackondachy</hi> of <hi>Inneraw.</hi>
+                  </item>
+                  <item>The Sheriff of <hi>Bute.</hi>
+                  </item>
+                  <item>The Laird of <hi>Camys.</hi>
+                  </item>
+                  <item>
+                     <hi>Maknauchtane.</hi>
+                  </item>
+                  <item>
+                     <hi>Maklauchlane.</hi>
+                  </item>
+                  <item>The Laird of <hi>Lawmount.</hi>
+                  </item>
+                  <item>The Laird of <hi>Parbrek.</hi>
+                  </item>
+                  <item>The Laird of <hi>Duntrune.</hi>
+                  </item>
+                  <item>Viſcount of <hi>Dudop,</hi> L. of <hi>Glaſtry.</hi>
+                  </item>
+                  <item>The Laird of <hi>Elenegreg.</hi>
+                  </item>
+                  <item>The Laird of <hi>Otter.</hi>
+                  </item>
+                  <item>The Laird of <hi>Coll.</hi>
+                  </item>
+                  <item>
+                     <hi>Macklene</hi> of <hi>Lockbuie.</hi>
+                  </item>
+               </list> And all other Land-Lords, Bailiffs of the Lands, Captains, Cheiftains, and Chief of Clans, and Principals of the Branches of Clans whomſoever in the Highlands, are to find Caution Landed men in the Countrey, to conform themſelves unto the ſaid Laws, Acts and Statutes of Parliament and Privie Councel above written, and to all other Laws Statutes and Acts of Parliament made thereanent, &amp; relating thereunto; and particularly ordaining all Chiefs of Clans, and others afore-named, ſpecified, mentioned, &amp; hereby intended, to come and find ſufficient Caution, acted in the Books of the High Court of Juſtice at <hi>Edinburgh,</hi> for Cauſes Criminal, or elſewhere, where the Court of Juſtice ſhall happen for the time being, to be held, for them and their friends, followers, and dependants peaceable carriage, according as they, or their Anceſtors and Predeceſſors have been formerly Ordained as aforeſaid, and under the pains therein contained, betwixt the Proclamation hereof, and the firſt day of <hi>October</hi> next enſuing: with certification if they fail, they ſhall be holden as contraveeners of the ſaid Acts of Parliament, and proſecuted accordingly with all rigour. And foraſmuch as the premiſſes are of Publick concernment, It is hereby provided and Declared, That no perſon whomſoever hereby intended for finding Caution as aforeſaid, coming into the Lowland, to provide and give in the ſame, ſhall any wayes in his perſon be moleſted or troubled by Caption, Arreſting, or other Impriſonment, for any Civill Cauſe whatſoever, untill the ſaid firſt day of <hi>October,</hi> and ten dayes after for their returns home be expired. And all Sheriffs, Bailiffs, Meſſengers of Arms, and all others whom it doth concern, are to take notice hereof, and give due obedience thereunto. And it is hereby Ordained, That theſe preſents ſhall be as ſufficient, as if every particular perſon hereby intended for giving Caution as aforeſaid, were herein ſpecially inſerted and named. This Proclamation to be publiſhed at the Mercat Croſſe of <hi>Edinburgh,</hi> and the Mercat Croſſes of the Head Burrowes of all other Shires next adjacent to thoſe parts where their Lands lye, where free acceſſe cannot be had.</p>
+            <closer>
+               <dateline>Given under our Hands at <hi>Edinburgh,</hi> 
+                  <date>July the 27. 1653.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Hen. Whalley</hi> Advoc. Gen.</item>
+                     <item>
+                        <hi>Geo. Smyth.</hi>
+                     </item>
+                     <item>
+                        <hi>And. Owen.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. March.</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Moſley.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>Leith,</hi> 1653.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
